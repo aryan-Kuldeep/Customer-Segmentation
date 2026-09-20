@@ -67,6 +67,3 @@ The model clusters customers based on the following attributes:
 - **Targeted Marketing**: Send personalized offers based on cluster habits (e.g., highly active online shoppers vs. in-store shoppers).
 - **Resource Allocation**: Focus retention efforts on high-value clusters with low recency scores.
 - **Product Strategy**: Design specific products tailored to the income and spending patterns of different groups.
-
----
-*Created by [Souvik Ghorui](https://github.com/SouvikGhorui)*
