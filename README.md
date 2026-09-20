@@ -29,7 +29,7 @@ The model clusters customers based on the following attributes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aryan-kuldeep/Customer-Segmentation.git
+   git clone https://github.com/aryan-Kuldeep/Customer-Segmentation.git
    cd Customer-Segmentation
    ```
 
@@ -44,7 +44,7 @@ The model clusters customers based on the following attributes:
 
 3. **Install required dependencies**
    ```bash
-   pip install streamlit pandas numpy scikit-learn joblib
+   pip install -r requirements.txt
    ```
 
 4. **Run the Streamlit Application**
