@@ -29,7 +29,7 @@ The model clusters customers based on the following attributes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SouvikGhorui/Customer-Segmentation.git
+   git clone https://github.com/aryan-kuldeep/Customer-Segmentation.git
    cd Customer-Segmentation
    ```
 
